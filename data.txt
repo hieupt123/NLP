@@ -1,0 +1,1245 @@
+I.	Châm ngôn
+1. Nếu cuộc đời ném vào mặt bạn một quả chanh, hãy vắt nước chanh thay vì chê nó chua quá.
+Nếu : C
+cuộc_đời : N
+ném: V
+vào: C
+mặt: N
+bạn: N
+Một: M
+quả_chanh: N
+hãy: R
+vắt: V
+nước_chanh: N
+thay_vì: C
+chê: V
+nó: P
+chua: A
+quá: R
+
+2.     Khi bạn không thể tìm thấy ánh nắng mặt trời, hãy là ánh nắng mặt trời.
+
+Khi: N
+bạn: N
+không_thể: R
+tìm_thấy: V
+ánh_nắng: N
+mặt_trời: N
+hãy: R
+là: C
+Ánh_nắng: N
+mặt_trời: N
+
+3. Cách tốt nhất để cổ vũ bản thân là cố gắng cổ vũ người khác
+
+Cách: N
+tốt: A
+nhất: A
+để: C
+cổ_vũ: V
+bản_thân: P
+là: C
+cố_gắng: V
+cổ_vũ: V
+người: N
+khác: A
+
+4.     Hạnh phúc là một sự lựa chọn. Đau khổ cũng là một sự lựa chọn. Hãy lựa chọn khôn ngoan 
+
+hạnh_phúc: N
+là: C
+một: M
+sự: N
+lựa: V
+chọn: V
+Đau: A
+khổ: A
+cũng: R
+là: C
+một: M
+sự: S
+lựa: V
+chọn: V
+Hãy: R
+lựa: V
+chọn: V
+khôn_ngoan: A
+
+5.     Chất lượng hạnh phúc của bạn phụ thuộc vào chất lượng suy nghĩ của bạn.
+
+Chất_lượng: N
+hạnh_phúc: N
+của: C
+bạn: P
+phụ_thuộc: V
+vào: C
+chất_lượng: N
+suy_nghĩ: V
+của: E
+bạn: P
+
+6.     Hôm nay, tôi chọn là phiên bản tốt nhất của chính mình.
+
+Hôm_nay: N
+tôi: P
+chọn: V
+là: I
+phiên_bản: N
+tốt: A
+nhất: A
+của: E
+chính_mình: P
+
+
+7.  Hạnh phúc đạt được khi bạn ngừng chờ đợi điều đó xảy ra và thực hiện các bước để biến nó thành hiện thực.
+
+Hạnh_phúc: N
+đạt: V
+được: A
+khi: N
+bạn: P
+ngừng: V
+chờ: V
+đợi: V
+điều: N
+đó: P
+xảy: V
+ra: V
+và: C
+thực_hiện: V
+các: D
+bước: N
+để: C
+biến: V
+nó: P
+thành: V
+hiện_thực: N
+
+8. 	Mọi người sẽ quên những gì bạn nói, quên những gì bạn đã làm, nhưng họ sẽ không bao giờ quên cảm xúc mà bạn mang lại cho họ.
+
+Mọi: N 
+người: N
+sẽ: R
+quên: V
+những: N
+gì: P
+bạn: P
+nói: V
+quên: V
+những: D
+gì: P
+bạn: P
+đã: R
+làm: V
+nhưng: c
+họ: P
+sẽ: R
+không: A
+bao_giờ: P
+quên: V
+cảm_xúc: A
+mà: C
+bạn: P
+mang: V
+lại: R
+cho: c
+họ: P
+
+9.     Không ai trở nên nghèo khó bằng việc chia sẻ và cho đi.
+
+Không: R
+ai: P
+trở_nên: V
+nghèo_khó: A
+bằng: C
+việc: N
+chia_sẻ: V
+và: C
+cho: V
+đi: V
+
+10. 	Hãy sống mỗi ngày như thể đó là ngày cuối cùng của bạn.
+Hãy: R
+sống: V
+mỗi: N
+ngày: N
+như_thể: c 
+đó: I
+là: E
+ngày: N
+cuối_cùng: A
+của: C
+bạn: P
+
+II. Báo chí
+11. 	Người phụ nữ 38 tuổi, ngụ Tuyên Quang, du lịch từ Dubai về sân bay Tân Sơn Nhất với triệu chứng sốt, được cách ly ngay tại sân bay và lấy mẫu xét nghiệm, mắc đậu mùa khỉ.
+
+Người: P
+phụ_nữ: N
+38: M
+tuổi: N
+ngụ: V
+Tuyên_Quang: N
+du_lịch: V
+từ: C
+Dubai: N
+về: V
+sân_bay: N
+Tân_Sơn_Nhất: N
+với: C
+Triệu_chứng: N
+sốt: V
+được: V
+cách_ly: V
+ngay: R
+tại: C
+sân_bay: N
+và: C
+lấy: V
+mẫu: N
+xét_nghiệm: V
+mắc: V
+đậu_mùa_khỉ: N
+
+12. 	Các triệu chứng thường thấy là sốt, đau đầu, đau cơ, đau lưng, sưng hạch bạch huyết, ớn lạnh, mệt mỏi, phát ban nhìn giống như mụn nước trên mặt, trong miệng hoặc ở các bộ phận khác của cơ thể như bàn tay, bàn chân, ngực, bộ phận sinh dục, hậu môn.
+
+Các: D
+triệu_chứng: N
+thường: A
+thấy: V
+là: C
+sốt: V
+đau: A
+đầu: N
+đau: A
+cơ: N
+đau: A
+lưng: N
+sưng: V
+hạch_bạch_huyết: N
+ớn_lạnh: A
+Mệt_mỏi: A 
+phát_ban: V
+nhìn: V
+giống: A
+như: C
+mụn_nước: mụn nước
+trên: N
+mặt: N
+trong: N
+miệng: N
+hoặc: C
+ở: C
+các: D
+bộ_phận: N
+khác: A
+của: C
+cơ_thể: N
+như: C
+bàn_tay: N
+bàn_chân: N
+ngực: N
+bộ_phận: N
+sinh_dục: N
+hậu_môn: N
+
+13. 	Nga biết rất rõ cách đánh vào nỗi sợ hãi của các cử tri phương Tây, qua đó tác động tới giới lãnh đạo của họ.
+
+Nga: P
+biết: V
+rất: A
+rõ: A
+cách: N
+đánh: V
+vào: C
+nỗi: N
+sợ: A
+hãi: A
+của: N
+các: D
+cử: N
+tri: N
+phương: N
+Tây: N,
+qua: C
+đó: I
+tác_động: V
+tới: V
+giới: N
+lãnh_đạo: N
+của: C
+họ: P
+.
+
+14. 	Một số vùng ven biển của Thừa Thiên Huế vẫn ngập úng gần một tuần nay.
+
+Một: M
+số: N
+vùng: N
+ven: N
+biển: N
+của: C
+Thừa_Thiên_Huế: N
+vẫn: R
+ngập: V
+úng: A
+gần: A
+một: M
+tuần: N
+nay:N.
+
+15. 	Cuối hiệp một chứng kiến những pha ăn miếng trả miếng giữa hai đội.
+
+Cuối: N
+hiệp: N
+một: M
+chứng_kiến: V
+những: I
+pha: V
+ăn: V
+miếng: N
+trả: V
+miếng: N
+giữa: N
+hai: M
+đội: N
+
+16. 	Sa lưới khi vừa bước xuống xe khách để ăn tối, Dương Hoàng Phúc nói "không nghĩ bị bắt nhanh vậy" vì trước đó đã bán vàng mua quần áo mới để hóa trang.
+
+Sa_lưới: V
+khi: N
+vừa: A
+bước: V
+xuống: V
+xe: V
+khách: N
+để: C
+ăn: V
+tối: N,
+Dương_Hoàng_Phúc: N
+nói: V
+"không: R
+nghĩ: V
+bị: V
+bắt: V
+nhanh: A
+vậy: P"
+vì: C
+trước: N
+đó: P
+đã: R
+bán: V
+vàng: N
+mua: V
+quần: N
+áo: N
+mới: A
+để: C
+hóa_trang: V.
+
+17. 	Chuyên gia cho rằng cần cấm phụ huynh thu chi, trong khi nhiều phụ huynh mong muốn phải minh bạch, công khai quỹ hội.
+
+Chuyên_gia: N
+cho: C
+rằng: C
+cần: A
+cấm: V
+phụ_huynh: N
+thu_chi: V
+,
+trong: C
+khi: N
+nhiều: A
+phụ_huynh: N
+mong_muốn: V
+phải: V
+minh_bạch: A
+,
+công_khai: V
+quỹ_hội: N
+.
+
+18. 	Đàn ông Nhật Bản phải trải qua thời gian làm việc chặt chẽ, môi trường áp lực cao và cả những cuộc nhậu đêm không thể từ chối.
+
+Đàn_ông: N
+Nhật_Bản: N
+phải: V
+trải: V
+qua: V
+thời: N
+gian: N
+làm: V
+việc: N
+chặt: A
+chẽ: A,
+môi: N
+trường: N
+áp: V
+lực: N
+cao: A
+và: C
+cả: L
+những: D
+cuộc: N
+nhậu: V
+đêm: N
+không_thể: R
+từ_chối: V
+.
+
+19. 	22 cây bàng Đài Loan, phượng hơn chục năm tuổi ở quận 8 bị cắt nhánh trơ trọi, chỉ còn phần thân để phòng ngã đổ khiến người dân tiếc nuối.
+
+22: M
+cây: N
+bàng: N
+Đài_Loan: P,
+phượng: N
+hơn: A
+chục: M
+năm: N
+tuổi: N
+ở: E
+quận: N
+8: M
+bị: V
+cắt: V
+nhánh: N
+trơ_trọi: A,
+chỉ: R
+còn: R
+phần: N
+thân: N
+để: C
+phòng: V
+ngã: V
+đổ: V
+khiến: V
+người: N
+dân: N
+tiếc: A
+nuối: V
+.
+
+20.  Sau đó, chủ đơn vị thuê đơn vị bên ngoài cắt cây không đúng quy cách, bị "lố tay" nên nhìn trơ trọi, đến khi quận kiểm tra, mọi thứ đã xong.
+
+Sau: N
+đó: P
+,
+chủ: N
+đơn_vị: N
+thuê: V
+đơn_vị: N
+bên: N
+ngoài: N
+cắt: V
+cây: N
+không: A
+đúng: A
+quy_cách: N
+,
+bị: V
+"lố tay": A
+nên: V
+nhìn: V
+trơ_trọi: A
+đến: C
+khi: N
+quận: N
+kiểm_tra: V
+mọi: N
+thứ: A
+đã: A
+xong: V
+.
+
+21. 	Với 3 điểm có được trên sân nhà giúp MU thu hẹp khoảng cách với vị trí thứ 4 xuống còn 1 điểm.
+
+Với: C
+3: M
+điểm: N
+có: V
+được: V
+trên: N
+sân_nhà: N
+giúp: V
+MU: N
+thu: V
+hẹp: A
+khoảng_cách: N
+với:	R
+vị_trí: N
+thứ: N
+4: M
+xuống: V
+còn: R
+1: M
+điểm: N
+.
+
+22. Tôi vẫn chưa nói chuyện với Cristiano Ronaldo, mọi chuyện sẽ được giải quyết vào ngày mai. 
+
+Tôi: P
+vẫn: R
+chưa: R
+nói_chuyện: V
+với: C
+Cristiano_Ronaldo: N
+.
+mọi: N
+chuyện: N
+sẽ: R
+được: R
+giải_quyết: V
+vào: C
+ngày_mai: N
+.
+
+Roberto Firmino trở thành điểm đến của hầu hết đường chuyền từ chủ nhà.
+
+Roberto_Firmino: N
+trở_thành: V
+điểm: N
+đến: C
+của: C
+hầu_hết: D
+đường_chuyền: N
+từ: C
+chủ_nhà: N
+.
+
+23. Việc tiến hành sàng lọc và điều trị dự phòng mang lại hiệu quả tích cực bởi ung thư dạ dày nếu phát hiện ở giai đoạn sớm thì vẫn có khả năng điều trị thành công.
+
+Việc: N
+tiến_hành: V
+sàng_lọc: V
+và: C
+điều_trị: V
+dự_phòng: V
+mang_lại: V
+hiệu_quả: N
+tích_cực: A
+bởi: C
+ung_thư: N
+dạ_dày: N
+nếu: C
+phát_hiện: V
+ở: C
+giai_đoạn: N
+sớm: A
+thì: C
+vẫn: R
+có: R
+khả_năng: N
+điều_trị: V
+thành_công: V
+.
+
+24. Tập đoàn của ông Alshaya sở hữu nhượng quyền thương mại địa phương của các thương hiệu bán lẻ như Starbucks, H&M và Victoria’s Secret.
+
+Tập_đoàn: N
+của: C
+ông: N
+Alshaya: N
+sở_hữu: N
+nhượng: V
+quyền: N
+thương_mại: N
+địa_phương: N
+của: C
+các: N
+thương_hiệu: N
+bán_lẻ: V
+như: C
+Starbucks: N
+,
+H&M: N
+và: C
+Victoria’s_Secret: N
+.
+
+25. Trang thấy làm freelance khá buồn, nhất là với người hướng ngoại, thích giao lưu.
+
+Trang: N
+thấy: V
+làm: V
+freelance: N
+khá: R
+buồn: A
+,
+nhất: R
+là: C
+với: C
+người: N
+hướng_ngoại: V 
+,
+thích: V
+giao_lưu: V
+.
+
+26. Việc sử dụng công nghệ nhận dạng khuôn mặt ngày càng phát triển trong nhiều lĩnh vực đời sống xã hội.
+
+Việc: N
+sử_dụng: V
+công_nghệ: N
+nhận_dạng: V
+khuôn_mặt: N
+ngày: N
+càng: R
+phát_triển: V
+trong: C
+nhiều: A
+lĩnh_vực: N
+đời_sống: N
+xã_hội: N
+.
+
+27. Chuyên gia cho biết trong đợt này, miền Trung ít khả năng xuất hiện mưa cực đoan như vừa qua, nhưng người dân vẫn cần cảnh giác với hiện tượng lũ quét, sạt lở đất.
+
+Chuyên_gia: N
+cho: V
+biết: V
+trong: C
+đợt: N
+này: P
+,
+miền_Trung: N
+Ít: A
+khả_năng: N
+xuất_hiện: V
+mưa: N
+cực_đoan: A
+như: C
+vừa: R
+qua: V
+,
+nhưng: C
+người_dân: N
+vẫn: R
+cần: V
+cảnh_giác: V
+với: C
+hiện_tượng: 
+lũ_quét: N
+,
+sạt_lở: N
+đất: N
+.
+
+28. Indonesia đã ghi nhận hơn 600 cuộc biểu tình về xăng dầu, tăng khoảng 30 lần so với con số 19 vào năm 2021.
+
+Indonesia: N
+đã: R
+ghi_nhận: V
+hơn: A
+600: M
+cuộc: N
+biểu_tình: V
+về: C
+xăng: N
+dầu: N
+,
+tăng: V
+khoảng: N
+30: M
+lần: N
+so: V
+với: C
+con_số: N
+19: M
+vào: C
+năm: N
+2021: M
+.
+
+29. Tôi băn khoăn không biết có nên reaction chương trình nữa hay không.
+
+Tôi: P
+băn_khoăn: A
+không: A
+biết: V
+có: R
+nên: V
+reaction: V
+chương_trình: N
+nữa: R
+hay: C
+không: R
+.
+
+30. Dưới trướng Steve Jobs, sẽ không có một mảy may dung thứ nào cho việc thực thi kém hiệu quả.
+
+Dưới: N
+trướng: N
+Steve_Jobs: N
+,
+sẽ: R
+không: R
+có: V
+một: M
+mảy_may: N
+dung_thứ: V
+nào: I
+cho: C
+việc: N
+thực_thi: V
+kém: A
+hiệu_quả: N
+.
+
+31. Tại bệnh viện K Trung ương hầu hết nam giới mắc ung thư dạ dày đề sử dụng thuốc lá.
+
+Tại: C
+bệnh_viện: N
+K: N
+Trung_ương: N
+hầu_hết: D
+nam_giới: N
+mắc: V
+ung_thư: N
+dạ_dày: N
+đều: R
+sử_dụng: V
+thuốc_lá: N
+.
+
+32.       Người ta vội tìm đến những người trong phái đoàn thì được biết họ đã rời bỏ Âu Châu
+Người_ta: P
+vội: A
+tìm: V
+đến: V
+những_người: P
+trong: N
+phái_đoàn : N
+thì: C
+được: I
+biết: V
+họ: P
+đã: R
+rời: V
+bỏ: V 
+Âu_Châu: N
+
+III. Tiểu thuyết
+33.       Ða số tu sĩ đều khoe khoang các địa vị, chức tước họ đã đạt
+
+Ða_số: N
+tu_sĩ: N
+đều: A
+khoe_khoang: V
+các: N
+địa: N
+vị: N,
+chức: N
+tước: N
+họ: P
+đã: R
+đạt: V
+
+34.   Xin bà con đứng xê xê ra cho tôi một chút
+
+Xin: V
+bà: N
+con: N
+đứng: V
+xê: V
+xê: V
+ra: V
+cho: R
+tôi: P
+một: M
+chút: A
+
+35.       Khi cậu ấy thức giấc trời con tối mịt.
+
+Khi: N
+cậu_ấy: P
+thức: V
+giấc: N
+trời: N
+còn: R
+tối_mịt: A.
+
+36.    “chúng đã quá quen với mình nên biết luôn cả giấc mơ của mình” cậu nghĩ
+
+“chúng: P
+đã: R
+quá: A
+quen: V
+với: E
+mình: P
+nên: V
+biết: V
+luôn: R
+cả: M
+giấc_mơ: N
+của: E
+mình: P
+cậu: P
+nghĩ: V
+
+37.    Anh học đọc sách như thế nào.
+
+Anh: P
+học: V
+đọc: V
+sách: N
+như: C
+thế_nào: X
+.
+
+38.   Ông nhà buôn đến, bảo xén cho lông bốn con cừu
+
+Ông: P
+nhà_ buôn: N
+đến: C,
+bảo: V
+xén: V
+cho: C
+lông: N
+bốn: M
+con: N
+cừu: N
+
+39. Nhưng trong thâm tâm tôi biết mình không thể chẳng cần.
+Nhưng: C
+trong: E
+thâm_tâm: N
+tôi: P
+biết: V
+mình: P
+không_thể: R
+chẳng: R
+cần: V
+
+40.    Cuối cùng họ tụ tập đông đúc phía bên này cầu Bao Vinh.
+
+Cuối: A
+cùng: N
+họ: P
+tụ_tập: V
+đông: A
+đúc: V
+phía: N
+bên: N
+này: P
+cầu: N
+Bao_Vinh: N
+
+41.   Đêm qua quân ta mần ăn có khá không anh?
+
+Đêm: N
+qua: R
+quân: N
+ta: P
+mần: V
+ăn: V
+có: A
+khá: A
+không: A
+anh: P
+
+IV. Sách
+42.    Thất bại là một gánh nặng, nó khiến họ cảm thấy áp lực mệt mỏi
+
+Thất_bại: V
+là: R
+một: M
+gánh: V
+nặng: A,
+nó: P
+khiến: V
+họ: P
+cảm: N
+thấy: V
+áp: V
+lực: N
+mệt: A
+mỏi: A
+43.   Người thành công coi thất bại chỉ là chuyện thường tình trong cuộc sống.
+
+Người: N
+thành_công: N
+coi: V
+thất_bại: V
+chỉ: R
+là: R
+chuyện: N
+thường: A
+tình: A
+trong: E
+cuộc: N
+sống: V
+
+44.  Làm thế nào để có thể theo đuổi hạnh phúc một cách vui vẻ?
+
+Làm: V
+thế_nào: X
+để: R
+có_thể: R
+theo: V
+đuổi: V
+hạnh_phúc: A
+một: M
+cách: N
+vui_vẻ: A
+
+45. Tôi đã đọc quyển sách này một cách thích thú.
+
+Tôi: N
+đã: R
+đọc: V
+quyển: N
+sách: N
+này: P
+một: M
+cách: N
+thích_thú: A
+
+46.  Hãy sống theo cách bạn cho là mình nên sống.
+
+Hãy: R
+sống: V
+theo: V
+cách: N
+bạn: P
+cho: R
+là: C
+mình: P
+nên: V
+sống: V
+
+47. Có một cậu bé lớn lên trong trại mồ côi luôn mơ ước được bay như chim trên trời.
+
+Có: A
+một: M
+cậu_bé: N
+lớn: A
+lên: V
+trong: R
+trại: N
+mồ_côi: A
+luôn: R
+mơ: V
+ước: V
+được: A
+bay: V
+như: C
+chim: N
+trên: E
+trời: N
+
+48.  Bà lên kế hoạch thật tỉ mỉ và chẳng để ai biết
+
+Bà: P 
+lên: V
+kế: N
+hoạch: N
+thật: A
+tỉ_mỉ: A
+và: C
+chẳng: R
+để: V
+ai: P
+biết: V
+
+49.  Sau đó bà nhào bột và làm bánh nướng cuốn nhân thịt.
+
+Sau: N
+đó: P
+bà: P
+nhào: V
+bột: N
+và: C
+làm: V
+bánh: N
+nướng: N
+cuốn: V
+nhân: N
+thịt: N
+
+50.  Đã đến lúc tôi biết mình cần phải nhờ giúp đỡ.
+
+Đã: R
+đến: V
+lúc: N
+tôi: P
+biết: V
+mình: P
+cần: V
+phải: V
+nhờ: V
+giúp_đỡ: V.
+
+51.   Vị bác sĩ nhìn ra ngoài cửa sổ, đưa mắt theo mấy chiếc lá thu rơi rụng
+
+Vị: N
+bác_sĩ: N
+nhìn: V
+ra: V
+ngoài: E
+cửa: N
+sổ: N,
+đưa: V
+mắt: N
+theo: V
+mấy: M
+chiếc: N
+lá: N
+thu: N
+rơi: V
+rụng: V
+
+V. Bài hát
+52.  Thu đến và đi như những gì đã sắp đặt
+
+Thu: N
+đến: V
+và: C
+đi: V
+như: C
+những: P
+gì: P
+đã: A
+sắp_đặt: V
+
+53.  ANH yêu em thật nồng nàn như một định lí đã muôn thuở
+
+
+ANH: N
+yêu: V
+em: N
+thật: A
+nồng_nàn: A
+như: C
+một: M
+định_lí: N
+đã: A
+muôn_thuở: N
+
+54.  Thu cuối rồi cũng qua nhanh cuốn theo cơn gió
+Thu: N
+cuối: A
+rồi: R
+cũng: R
+qua: V
+nhanh: A
+cuốn_theo: V
+Cơn_gió: N
+
+55.  Không cần mang giày cao gót, không cần phấn son cầu kì
+
+Không: A
+cần: V
+mang: V
+giày_cao_gót: N
+không: A
+cần: V
+phấn: N
+son: N
+cầu_kì: A
+
+56.  Một bậc Quân Vương mang trong con tim hình hài đất nước
+
+Một: M
+bậc: N
+Quân_Vương: N
+Mang: V
+trong: N
+con: N
+tim: N
+hình: N
+hài: N
+đất: N
+nước: N
+
+57.  Giọt lệ Quân Vương không khi nào rơi khi nước chưa tàn
+
+Giọt: N
+lệ: N
+Quân_Vương: N
+không: N
+khi: N
+nào: N
+rơi: V
+khi: N
+nước: N
+chưa: R
+tàn: V
+
+58.  Đừng trách móc bởi hai ta đều sai
+
+Đừng: R
+trách_móc: V
+bởi: C
+hai: M
+ta: N
+đều: A
+sai: A
+
+59.  Em là lý do tôi biết vấn vương trong đời
+
+Em: N
+là: R
+lý_do: N
+tôi: N
+biết: V
+vấn_vương: A
+trong: N
+đời: N
+
+60.  Chỉ cần em ngồi sau cùng anh ta đi đến đâu cũng được
+
+Chỉ: R
+cần: V
+em: N
+ngồi: V
+sau: N
+cùng: A
+anh: N
+ta: N
+đi: V
+đến: R
+đâu: P
+cũng: R
+được: R
+
+61. Con người trong nghịch cảnh càng không được phép chịu đầu hàng
+
+Con: N
+người: N
+trong: E
+nghịch_cảnh: A
+càng: A
+không: A
+được: V
+phép: N
+chịu: A
+đầu_hàng: V
+
+VI. Sách tiếng việt lớp 1
+62. Bà bó cỏ.
+
+Bà: N		
+bó:	V
+cỏ: N
+.		
+
+63. Cá bò xin lỗi mẹ.
+
+Cá_bò:	N 
+xin_lỗi:	V 
+mẹ:		N		
+.
+
+64. Bố và bé vẽ cò.
+
+Bố:	N
+và:	C
+bé:	N
+vẽ:	V 
+cò:	N
+.
+
+65. Bà thường đọc truyện cho Na nghe.
+
+Bà:	N
+thường:	R 
+đọc:	V
+truyện:	N 
+cho:	V 
+Na:	N 
+nghe:V
+.
+
+
+66. Chị và bé đi chợ.
+
+Chị:	N
+và:	C 
+bé:	N 
+đi:	V
+chợ:	N
+.
+
+67. Bé vẽ gà và ghế.
+
+Bé:	N 
+vẽ:	V 
+gà:	N 
+và:	C 
+ghế:	N
+.
+
+68.Bố mẹ dẫn Đức và Thư đi biển chơi.
+
+Bố:	N 
+mẹ:	N 
+dẫn:	V 
+Đức: N
+và:	C 
+Thư:N 
+đi:V 
+biển:N 
+chơi	:V
+.
+69.Ba đưa cả nhà đi sở thú.
+
+Ba:	N 
+đưa:V 
+cả:	A
+nhà:	N 
+đi:	V 
+sở_thú:	N
+.
+
+70. Mỗi ngày, sư tử bắt một con thú nhỏ để ăn thịt.
+
+Mỗi:		N
+ngày:	N
+, 
+sư_tử:	N 
+bắt:		V 
+một:		M 
+con_thú: N 
+nhỏ:		A 
+để:		C 
+ăn_thịt:	V
+.
+
+71. Hà theo mẹ đi thi đấu cờ vua.
+
+Hà:		N
+theo:	V 
+mẹ:		N 
+đi:		V 
+thi_đấu: V 
+cờ_vua: N
+.
+
+72. Hai nhà cách nhau một bức tường.
+
+Hai: M
+nhà: N
+cách: V
+nhau: N
+một: M
+Bức_tường: N
+
+
+
+73. Nhà cậu ở đâu vậy ?
+
+Nhà: N
+cậu: P
+ở: C
+đâu: P
+vậy: R
+
+
+
+	
+
+	
+
+
+
