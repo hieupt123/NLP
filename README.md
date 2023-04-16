@@ -4,6 +4,7 @@
 * Tên môn học: Xử lý ngôn ngữ tự nhiên
 * Mã lớp: CS221.N11.KHCL
 * Năm học: HK1 (2022-2023)
+* Đề tài: Gán nhãn từ loại tiếng Việt
 
 ### Giảng viên
 * ThS. Nguyễn Trọng Chỉnh
